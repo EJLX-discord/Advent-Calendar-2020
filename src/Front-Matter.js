@@ -18,7 +18,7 @@ export default function FrontMatter (props) {
       <div className={'front-page'} style={{ height, background: isWaveEnabled ? '' : '#183446' }}>
         <a
           className={'front-page-go-back-link'}
-          href={'https://espaspw.github.io/Advent-Calendar-Hub/'}
+          href={'https://ejlx-discord.github.io/Advent-Calendar-Hub/'}
         >
           <span style={{
             position: 'relative',
